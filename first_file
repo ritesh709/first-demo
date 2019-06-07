@@ -1,0 +1,5 @@
+git init--for initialation
+git remote add origin "link"--
+git pull origin master--user to pull data from github
+
+
